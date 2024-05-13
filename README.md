@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/p8oo0416bflbobtn?svg=true)](https://ci.appveyor.com/project/lioness1741/ahj-homeworks-eventsource)
